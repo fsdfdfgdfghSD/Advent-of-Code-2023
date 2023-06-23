@@ -1,2 +1,2 @@
 # Advent-of-Code-2023
-Advent of Code 2023 days in Lua!
+Lua solutions for the Advent Of Code 2023 problems. Website: https://adventofcode.com/
