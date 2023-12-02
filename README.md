@@ -6,7 +6,7 @@ Lua solutions for the [Advent of Code](https://adventofcode.com) 2023 problems.
 | Day | Part 1 | Part 2
 |:----|:----|:----
 | Day 1. Trebuchet?! | ⭐ | ⭐
-| Day 2. Cube Conundrum | |
+| Day 2. Cube Conundrum | ⭐ |
 
 <hr>
 
