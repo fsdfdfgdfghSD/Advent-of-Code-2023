@@ -13,4 +13,4 @@ Lua solutions for the [Advent of Code](https://adventofcode.com) 2023 problems (
 
 ## Contributing
 
-You can contribute by identifying bugs or solving additional problems.
+You can contribute by identifying bugs or solving additional problems. Send a pull requests.
