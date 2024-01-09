@@ -1,4 +1,4 @@
-# Advent-of-Code-2023
+# Advent-of-Code-2023 WIP
 > NOTE: Make sure you have Lua 5.1 or a later version installed. [Download here.](https://www.lua.org/download.html)
 
 Lua solutions for the [Advent of Code](https://adventofcode.com) 2023 problems (Incomplete).
@@ -7,7 +7,6 @@ Lua solutions for the [Advent of Code](https://adventofcode.com) 2023 problems (
 |:----|:----|:----
 | Day 1. Trebuchet?! | ⭐ | ⭐
 | Day 2. Cube Conundrum | ⭐ |
-| Day 3. Gear Ratios | |
 
 <hr>
 
